@@ -28,8 +28,8 @@ When both sensors reach their programmed threshold values, the Arduino Uno micro
 
 ### System Operation
 
-1. The smoke/gas sensor continuously monitors air quality.
-2. The temperature sensor continuously measures ambient temperature.
+1. The smoke/gas sensor continuously monitors the air for smoke.
+2. The temperature sensor continuously measures the air temperature.
 3. If both sensor readings exceed their predefined thresholds, the alarm is triggered automatically.
 4. A manual switch allows users to activate the alarm regardless of sensor readings.
 5. When activated:
